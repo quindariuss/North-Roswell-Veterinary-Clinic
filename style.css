@@ -1,19 +1,36 @@
-* {
-	  font-family: Arial, Helvetica, sans-serif;
+body 
+{
+	background-color: white;
+	color: black;
+}
+	
+	.dark-mode 
+	{
+	  background-color: black;
+	  color: white;
+	}
+a	
+{
+	align-items: center;
+	padding: 10px;
+	font-family:  Helvetica, sans-serif;
+	color: black;
+	text-decoration: none;
+}
+a:hover 
+{
+	transition: .3s;
+	border: solid;
+	border-radius: 10px;
+	border-color: 145D0D;	
+	border-spacing: 20px;
+	
+
+}
+.center {
+	  margin: auto;
+	  padding: 10px;
+	  text-align: center
 	}
 	
-	body {
-	  color: #222;
-	  background: #fff;
-	}
-	body.dark-theme {
-	  color: #eee;
-	  background: #121212;
-	}
-	
-	a {
-	  color: #0033cc;
-	}
-	body.dark-theme a {
-	  color: #809fff;
-	}
+
