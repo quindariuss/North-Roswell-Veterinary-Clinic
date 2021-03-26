@@ -3,6 +3,7 @@ body
 	background-color: white;
 	color: black;
 	text-align: center;
+	
 }
 	
 	.dark-mode 
@@ -38,6 +39,7 @@ p
 	font-family: 'Roboto', sans-serif;
 	margin: 20px;
 	font-style: 20px;
+	padding: 10px;
 }
 
 .card
@@ -54,4 +56,27 @@ p
 
 img.jpg {
 	
+}
+/* .footer
+{
+	
+width: 100%;
+border-radius: 50px;
+background: #ffffff;
+box-shadow: inset 20px 20px 3px #d9d9d9,
+			inset -20px -20px 3px #ffffff;
+		} */
+
+
+
+
+table
+{
+	width: 100%;
+	padding: 10px;
+	text-align: left;
+}
+td
+{
+	padding-right: 10px;
 }
