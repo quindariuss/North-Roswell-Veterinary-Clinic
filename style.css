@@ -38,7 +38,7 @@ p
 {
 	font-family: 'Roboto', sans-serif;
 	margin: 20px;
-	font-style: 20px;
+	font-size: 20px;
 	padding: 10px;
 }
 
@@ -51,11 +51,12 @@ p
 	border-radius: 10px;
 	border: 1px solid rgba( 255, 255, 255, 0.18 );
 	padding: 10px;
-	margin: 20px;;
+	margin: 20px;
 }
 
-img.jpg {
-	
+img.jpg 
+{
+	border-radius: 10px;
 }
 /* .footer
 {
@@ -79,4 +80,9 @@ table
 td
 {
 	padding-right: 10px;
+}
+
+.svg
+{
+	fill
 }
