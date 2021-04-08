@@ -1,0 +1,24 @@
+img{
+	position: relative;
+	bottom: -10;
+	left: -10;
+}
+
+*
+{
+	background: #f1ece2;
+}
+
+h1
+{
+	margin-left: 3%;
+	font-size: 70;
+	font-family: bulta;
+	color: #5A3E29;
+}
+
+@font-face  
+{
+	font-family: bulta;
+	src: url(Bulta-Bold.ttf)
+}
