@@ -5,12 +5,19 @@ body
 	text-align: center;
 	
 }
+
+
 	
 	.dark-mode 
 	{
 	  background-color: black;
 	  color: color(srgb 1 1 1);
 	}
+	
+.grid
+{
+	display: grid;
+}
 a	
 {
 	align-items: center;
